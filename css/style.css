@@ -3,9 +3,9 @@ body {
 }
 
 .container {
-  max-width: 360px;
-  height: 640px;
-  max-height: 640px;
+  max-width: 540px;
+  height: 100vh;
+  max-height: 820px;
   transition: background-image 0.2s ease-in-out;
 }
 
