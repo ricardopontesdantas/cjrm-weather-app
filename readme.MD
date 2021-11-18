@@ -6,7 +6,7 @@ This is the **weather app** project, and is the third of the challenges proposed
 
 ## Usage
 
-No need to install anything. Just download the project, double click on the index.html file, and search any city in the world! [Or you can access the production link here =)](#).
+No need to install anything. Just download the project, double click on the index.html file, and search any city in the world! [Or you can access the production link here =)](https://gracious-joliot-f824f5.netlify.app/).
 
 ## Preview
 
