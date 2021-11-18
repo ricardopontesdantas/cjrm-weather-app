@@ -1,5 +1,5 @@
 const APIKey = "S0AdM3Csfh1HT9xRCrggc53HlgDx51sw";
-const baseURL = "http://dataservice.accuweather.com";
+const baseURL = "https://dataservice.accuweather.com";
 const language = "pt-br";
 
 const getCityUrl = (cityName) =>
