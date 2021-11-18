@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  max-width: 540px;
+  max-width: 480px;
   height: 100vh;
   max-height: 820px;
   transition: background-image 0.2s ease-in-out;
